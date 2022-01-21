@@ -5,7 +5,7 @@
 The picture of the new organization does not belong to me.
 I forgot which mod I got it from.
 # 关于windows10跳出
-PC1我找到不中途退出的方法了，兼容模式用win8，基本不退出，而且运行还流畅许多————来自装甲军团1贴吧群群友。
+PC1我找到不中途退出的方法了，兼容模式用win8，基本不退出，而且运行还流畅许多————来自装甲军团贴吧群|老鹰。
 
 # 官方论坛
 http://www.slitherine.com/forum/viewforum.php?f=121
